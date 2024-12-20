@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "65fe5ae6e9164774b75918f6"
+  },
+  "title": "OnePlus 12R (Cool Blue, 8GB, 128GB)",
+  "picture": "1711168230746-858812784-onepiecemobile.jpg",
+  "description": "Fast & Smooth for years: Snapdragon 8 Gen 2 Mobile Platform, Up to 16GB of LPDDR5X RAM with RAM-Vita - Dual Cryo-velocity VC Cooling System, TÜV SÜD 48-Month Fluency Rating A\r\nPristine Display with Aqua Touch: Super-Bright 1.5K LTPO ProXDR Display with Dolby Vision, and a DisplayMate A+ rating, Intellignent Eye Care certified by TÜV Rheinland, 4500 nits Peak Brightness, Aqua Touch helps you stay swiping, even with wet hands\r\nComputational Photography That's Incomparable: RAW HDR Algorithm, 50MP Sony IMX890 Camera and Ultra-wide Camera 112° FoV Sony IMX355, Ultra-Clear Image Quality\r\nOur Longest-Lasting Battery Ever: 5500 mAh Battery with 100W SUPERVOOC, Paired with our advanced Battery Health Engine for longevity\r\nSmoother and more stable connectivity: WiFi 7 Ready, Enhanced Wi-Fi, Lower gaming latency, Reduced network recovery time.",
+  "price": "39999",
+  "quantity": "20",
+  "category_id": {
+    "$oid": "65fe58ffe9164774b75918e6"
+  },
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fe5bb8e9164774b7591900"
+  },
+  "title": "Apple iPhone 15 Pro Max (256 GB) - Black Titanium",
+  "picture": "1711168440569-230281934-iphonemannan.jpg",
+  "description": "Colour: Black Titanium\r\nSize: 256 GB\r\nBrand\tApple\r\nModel Name\tiPhone 15 Pro Max\r\nNetwork Service Provider\tUnlocked for All Carriers\r\nOperating System\tiOS\r\nCellular Technology\t5G\r\n",
+  "price": "148200",
+  "quantity": "20",
+  "category_id": {
+    "$oid": "65fe58ffe9164774b75918e6"
+  },
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fe5d32e9164774b7591936"
+  },
+  "title": "T-shirts Suzume No Tojimari Daijin",
+  "picture": "1711168818143-84980959-suszme.jpeg",
+  "description": "Suzume No Tojimari Daijin White Cat T Shirts Women/men Fashion Anime Kawaii/cute Neko Tshirts T-shirts Harajuku Short Sleeve",
+  "price": "500",
+  "quantity": "14",
+  "category_id": {
+    "$oid": "65fe599ae9164774b75918e9"
+  },
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fe5de9e9164774b7591940"
+  },
+  "title": "YOUR NAME",
+  "picture": "1711169408549-61236511-your name.jpg",
+  "description": "POSTERNEST Your Name Anime Poster Matte Finish Paper Print 12 x18 Inch (Multicolor) -8351",
+  "price": "500",
+  "quantity": "20",
+  "category_id": {
+    "$oid": "65fe5a18e9164774b75918ec"
+  },
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fe5e9fe9164774b7591945"
+  },
+  "title": "Poster",
+  "picture": "1711169461663-964044456-s-one-piece-characters-graphic-printed-black-tshirt-on-trend-originonepiecel-imagxjyaynsyqnzh.webp",
+  "description": "ONE PIECE ",
+  "price": "360",
+  "quantity": "20",
+  "category_id": {
+    "$oid": "65fe599ae9164774b75918e9"
+  },
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fe5ecee9164774b759195b"
+  },
+  "title": "SUZUME TOY",
+  "description": "suzume tojmari ",
+  "price": "100",
+  "quantity": "20",
+  "category_id": {
+    "$oid": "65fe5a18e9164774b75918ec"
+  },
+  "status": "Active",
+  "__v": 0,
+  "picture": "1711170075149-915571830-ssm.jpg"
+}]

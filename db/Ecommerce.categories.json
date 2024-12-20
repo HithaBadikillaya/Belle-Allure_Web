@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65fe58ffe9164774b75918e6"
+  },
+  "title": "mobile",
+  "picture": "1711167743277-87455092-mobile.png",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fe599ae9164774b75918e9"
+  },
+  "title": "fashion",
+  "picture": "1711167898981-350589644-animecate.jpg",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fe5a18e9164774b75918ec"
+  },
+  "title": "anime ",
+  "picture": "1711168044062-244028244-yournametoy.webp",
+  "status": "Active",
+  "__v": 0
+}]
